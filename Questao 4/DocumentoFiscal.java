@@ -1,6 +1,3 @@
-import java.util.concurrent.Executors;
-import java.util.concurrent.Callable;
-
 /**
  * Padrão de Projeto Escolhido: Chain of Responsibility (Cadeia de Responsabilidade)
  *
